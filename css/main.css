@@ -1,0 +1,27 @@
+h1{
+    font-size: 3vw;
+    color: blue;
+}
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+h2{
+    color: gold;
+}
+h3{
+    color: darkcyan;
+
+}
+h4{
+    color: aquamarine;
+}
+table, th, td {
+    border-style: dotted;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.stats {
+    color: navy; 
+}
